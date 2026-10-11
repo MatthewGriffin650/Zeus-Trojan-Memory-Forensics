@@ -570,6 +570,10 @@ REG\_SZ        AltDefaultDomainName : (S) BILLY-DB5B96DD3
 
 
 
+C:\\Users\\DatTw\\Downloads\\volatility\_2.6\_win64\_standalone\\volatility\_2.6\_win64\_standalone>mkdir evidence
+
+
+
 C:\\Users\\DatTw\\Downloads\\volatility\_2.6\_win64\_standalone\\volatility\_2.6\_win64\_standalone>volatility\_2.6\_win64\_standalone -f zeus.vmem malfind -p 856 --dump-dir evidence/
 
 Volatility Foundation Volatility Framework 2.6
